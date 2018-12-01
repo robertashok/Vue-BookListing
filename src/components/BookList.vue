@@ -32,6 +32,6 @@ padding:0;
 }
 li{
 display:block;
-margin:0 10 px;
+margin:0 10px;
 }
 </style>
