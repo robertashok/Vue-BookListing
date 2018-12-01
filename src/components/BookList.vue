@@ -14,9 +14,9 @@ name:'BookList',
     return {
       title : 'All Books',
       books :[
-      {title:'Robert is getting better', author:'Robert'},
-      {title:'Robert is getting better NOW', author:'Robert'},
-      {title:'Robert is getting better FURTHER', author:'Robert'},
+        {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
+        {title: 'American Gods', author: 'Neil Gaiman'},
+        {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
       ]
     }
   }
